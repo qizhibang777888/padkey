@@ -19,8 +19,8 @@ cat > "$APP/Contents/Info.plist" <<'PLIST'
     <key>CFBundleName</key><string>PadKey</string>
     <key>CFBundleDisplayName</key><string>PadKey</string>
     <key>CFBundleIdentifier</key><string>local.qzbworks.padkey</string>
-    <key>CFBundleVersion</key><string>1</string>
-    <key>CFBundleShortVersionString</key><string>1.0</string>
+    <key>CFBundleVersion</key><string>3</string>
+    <key>CFBundleShortVersionString</key><string>1.3</string>
     <key>CFBundlePackageType</key><string>APPL</string>
     <key>CFBundleExecutable</key><string>PadKey</string>
     <key>CFBundleIconFile</key><string>AppIcon</string>
